@@ -14,3 +14,4 @@ class AddCustomerIdToSales < ActiveRecord::Migration
   end
 end
 
+#
